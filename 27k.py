@@ -1,5 +1,5 @@
 MK1=input()
-if(MK1.isnumeric()):
-  print("yes")
+if MK1.isdigit():
+    print("Yes")
 else:
-  print("no")
+    print("No")

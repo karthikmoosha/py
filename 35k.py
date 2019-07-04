@@ -1,6 +1,6 @@
-MK1=input()
-k=0
-for i in range(len(MK1)):
-  if(MK1[i].isdigit()):
-    k+=1
-print(k)
+nl=input()
+ka1=0
+for i in range(len(nl)):
+ if(nl[i].isdigit()):
+   ka1=ka1+1
+print(ka1) 

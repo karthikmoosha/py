@@ -1,4 +1,3 @@
-k1=int(input())
-z=list(map(int,input().split()))
-z.sort()
-print(z[0],z[k1-1])
+karthik=int(input())
+kk=list(map(int,input().split()))
+print(min(kk),max(kk))

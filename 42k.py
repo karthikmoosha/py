@@ -1,5 +1,5 @@
 m,k=input().split()
-if(len(a)>len(b)):
+if(len(m)>len(k)):
   print(m)
 else:
   print(k)

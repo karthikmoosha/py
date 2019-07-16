@@ -1,2 +1,2 @@
-nven=input()
-print(ord(nven))
+nven1=input()
+print(ord(nven1))
